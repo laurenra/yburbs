@@ -1,0 +1,78 @@
+body {
+    margin: 0;
+}
+
+body,td,th {
+    font-family: Verdana, Geneva, sans-serif;
+    font-size: 12px;
+}
+
+.hero-image {
+    background-image: url("../images/aerial-photography-of-gray-houses-1486785-miniature.jpg");
+    background-color: white;
+    height: 1407px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+}
+
+.hero-text {
+    text-align: center;
+    position: absolute;
+    top: 7%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    /*color: #ddcdb6;*/
+    /*color: rgba(190, 226, 26, 1);*/
+    /*color: rgba(190, 226, 26, 0.8);*/
+    /*color: rgba(237, 208, 18, 1);*/
+    /*color: rgb(166, 164, 29);*/
+    /*color: rgb(193, 191, 29);*/
+    /*color: rgb(71, 168, 133);*/
+    /*color: rgb(176, 118, 142);*/
+    color: rgb(231, 215, 189);
+    text-shadow: 5px 5px 5px rgba(50, 50, 50, 1);
+    /*padding: 1em 2em;*/
+}
+
+.menu-text {
+    text-align: left;
+    position: absolute;
+    top: 2%;
+    left: 2%;
+    /*color: white;*/
+    color: rgb(232, 227, 233);
+    background-color: rgba(83, 98, 43, 0.75);
+    padding: 1em 2em;
+    /*border: 1px solid lightgrey;*/
+    border-radius: 5px;
+}
+
+.shadow {
+    -webkit-box-shadow: 3px 3px 10px 1px rgba(50, 50, 50, 0.75);
+    -moz-box-shadow: 3px 3px 10px 1px rgba(50, 50, 50, 0.75);
+    box-shadow: 3px 3px 10px 1px rgba(50, 50, 50, 0.75);
+}
+
+.menu-text a {
+    /*color: lightseagreen;*/
+    /*color: rgb(220, 220, 220);*/
+    /*color: rgb(215, 210, 188);*/
+    /*color: rgb(193, 191, 29);*/
+    color: rgb(215, 210, 191);
+}
+
+.footer-text {
+    font-size: x-small;
+    text-align: left;
+    position: absolute;
+    bottom: 2%;
+    left: 2%;
+}
+
+.footer-text a {
+    /*color: rgb(215, 210, 188);*/
+    color: rgb(215, 210, 191);
+}
+
