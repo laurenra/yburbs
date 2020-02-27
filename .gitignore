@@ -1,5 +1,7 @@
 # Directories to ignore #
 .idea
+webgl-projector
+plotly-practice-1
 
 # Files to ignore #
 *.iml
