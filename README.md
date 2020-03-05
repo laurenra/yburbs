@@ -1,5 +1,5 @@
 # YBurbs website
-Simple website for fiddling and testing.
+A simple website for fiddling and testing.
 
 ## Run it
 You can just drop [default.html](default.html) into a Chrome browser window. If you run 
